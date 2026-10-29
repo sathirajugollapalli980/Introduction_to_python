@@ -1,0 +1,6 @@
+Words: 6
+Unique words: 4
+data         2
+easy         1
+is           2
+useful       1
