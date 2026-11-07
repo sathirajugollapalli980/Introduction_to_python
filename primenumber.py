@@ -15,4 +15,4 @@ for d in range(2, n):
 if is_prime:
     print(f"{n} is prime")
 else:
-    print(f"{n} is not prime")
+    print(f"{n} is not prime")  
